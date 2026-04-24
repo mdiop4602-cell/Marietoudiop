@@ -21,9 +21,9 @@ st.write("technicienne superieur en geomatique et geographe spécialisée dans l
 
 # Diplômes
 st.header("Diplômes")
-st.write("licence en geographie a l'université cheikh Anta diop de dakar")
+st.write("licence en geographie à l'université cheikh Anta diop de dakar")
 st.write("brevret technicien superieur en geomatique au centre d'entrepreneuriat developpement technique le G15")
-st.write("baccalaureat a université cheikh anta diop")
+st.write("baccalaureat à l'université cheikh anta diop")
 
 # Compétences
 st.header("Compétences")
