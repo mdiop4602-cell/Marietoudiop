@@ -14,16 +14,16 @@ with st.sidebar:
 # --- CONTENU PRINCIPAL ---
 st.title("MARIETOU DIOP")
 
-st.write("technicienne superieur en geomatique et geographe spécialisée dans la topographie,la cartographie,"
-         "l'analyse spatiale dessin plan et la programmation")
+st.write("Technicienne Superieur en Geomatique et Geographe Spécialisée dans la Topographie,la Cartographie,"
+         "l'Analyse Spatiale Dessin Plan et la Programmation")
 
 
 
 # Diplômes
 st.header("Diplômes")
-st.write("licence en geographie à l'université cheikh Anta diop de dakar")
-st.write("brevret technicien superieur en geomatique au centre d'entrepreneuriat developpement technique le G15")
-st.write("baccalaureat à l'université cheikh anta diop")
+st.write("licence en Geographie à l'université Cheikh Anta diop De Dakar")
+st.write("Brevret Technicien Superieur en Geomatique au Centre D'entrepreneuriat Developpement Technique le G15")
+st.write("Baccalaureat à l'université Cheikh Anta Diop")
 
 # Compétences
 st.header("Compétences")
