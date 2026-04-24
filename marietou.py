@@ -28,16 +28,15 @@ st.write("Baccalaureat à l'université Cheikh Anta Diop")
 # Compétences
 st.header("Compétences")
 st.write("""
-- Informatique : Bonne maîtrise de Word (saisie de texte)  
+- Informatique burautique  
 - Gestion des ventes (commerce)  
+- Modélisation
+- Numérisation
 - Cours de français à domicile
 - Streamlit
 - ArcGIS
 - Analyse spatiale
-- Cartographie thématique
-- Word
-- Power point
-- Excel
+- Cartographie 
 - Manipulation de données
 - Structuration de bases de données
 """)
