@@ -6,14 +6,14 @@ st.set_page_config(page_title="CV - Marietou Diop", layout="wide")
 # --- SIDEBAR (colonne gauche) ---
 with st.sidebar:
 
-    st.markdown("## MARIETOU DIOP")
-    st.write("TECHNICIENNE SUPERIEUR EN GEOMATIQUE ET GEOGRAPHE")
+    st.markdown("## TECHNICIENNE SUPERIEUR EN GEOMATIQUE ET GEOGRAPHE")
     st.write("📍 Adresse : DAKAR / SENEGAL")
     st.write("✉️ Email : mdiop4602@gmail.com")
     
 # --- CONTENU PRINCIPAL ---
 st.title("MARIETOU DIOP")
 
+st.title(" Profil")
 st.write("Technicienne Superieur en Geomatique et Geographe Spécialisée dans la Topographie,la Cartographie,"
          "l'Analyse Spatiale Dessin Plan et la Programmation")
 
