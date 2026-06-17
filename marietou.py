@@ -19,7 +19,8 @@ with st.sidebar:
 
     #Centre d'Interet
     st.header("Centre d'interet")
-    st.markdown("""
+    st.markdown("""   
+    * Sport"""
     * Lecture""")
 # --- CONTENU PRINCIPAL ---
 st.title("MARIETOU DIOP")
