@@ -20,7 +20,7 @@ with st.sidebar:
     #Centre d'Interet
     st.header("Centre d'interet")
     st.markdown("""
-    * L'environnement""")
+    * Lecture""")
 # --- CONTENU PRINCIPAL ---
 st.title("MARIETOU DIOP")
 
