@@ -9,7 +9,12 @@ with st.sidebar:
     st.markdown("## TECHNICIENNE SUPERIEUR EN GEOMATIQUE ET GEOGRAPHE")
     st.write("📍 Adresse : DAKAR / SENEGAL")
     st.write("✉️ Email : mdiop4602@gmail.com")
-    
+       #Langues
+    st.header("Langues")
+    st.markdown("""
+    * Francais: Avancé """)
+    st.markdown("""
+    * Anglais: Intermédiaire """)
 # --- CONTENU PRINCIPAL ---
 st.title("MARIETOU DIOP")
 
