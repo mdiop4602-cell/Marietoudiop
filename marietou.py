@@ -14,7 +14,13 @@ with st.sidebar:
     st.markdown("""
     * Francais: Avancé """)
     st.markdown("""
-    * Anglais: Intermédiaire """)
+    * Anglais: Intermédiaire """)   
+    st.divider()
+
+    #Centre d'Interet
+    st.header("Centre d'interet")
+    st.markdown("""
+    * L'environnement""")
 # --- CONTENU PRINCIPAL ---
 st.title("MARIETOU DIOP")
 
